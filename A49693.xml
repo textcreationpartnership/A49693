@@ -1,0 +1,240 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A thanksgiving sermon for His Majesty's safe return and for the happy and honourable peace, of which God has made him the glorious instrument, Preached in Highgate Chapel, on Thursday the 2d of December, 1697. BY R. L. V.A.L.</title>
+            <author>R. L.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49693</idno>
+            <idno type="STC">Wing L56C</idno>
+            <idno type="STC">ESTC R218601</idno>
+            <idno type="EEBO-CITATION">99830178</idno>
+            <idno type="PROQUEST">99830178</idno>
+            <idno type="VID">34628</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49693)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34628)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2033:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A thanksgiving sermon for His Majesty's safe return and for the happy and honourable peace, of which God has made him the glorious instrument, Preached in Highgate Chapel, on Thursday the 2d of December, 1697. BY R. L. V.A.L.</title>
+                  <author>R. L.</author>
+               </titleStmt>
+               <extent>23, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXCVII. [1697]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes preliminary prayer.</note>
+                  <note>Caption title on p. 5 reads: Colossians III. 15. And let the peace of God rule in your hearts, to the which also ye are called in one body, and by ye thankful.</note>
+                  <note>Running title reads: A thanksgiving sermon, for His Majesty's safe return, &amp;c.</note>
+                  <note>Reproduction of the original in the Bamburgh Castle deposit, Durham.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William --  III, --  King of England, 1650-1702 --  Early works to 1800.</term>
+               <term>Bible. --  N.T. --  Colossians III, 15 --  Sermons --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2011-07</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34628:1" rendition="simple:additions"/>
+            <p>A Thankſgiving SERMON FOR His Majeſty's Safe Return, AND FOR The Happy and Honourable PEACE, Of which GOD has made Him the Glorious Inſtrument.</p>
+            <p>PREACHED In <hi>Highgate</hi> Chapel, on <hi>Thurſday</hi> the 2d. of <hi>December,</hi> 1697.</p>
+            <p>
+               <hi>By</hi> R. L. <hi>V. A. L.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for the Author, MDCXCVII.</p>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:34628:2"/>
+            <p>
+               <figure>
+                  <p>Lord Crewe's Charity Durham, England</p>
+                  <figDesc>blazon or coat of arms</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="prayer">
+            <pb facs="tcp:34628:2"/>
+            <head>The Prayer before Sermon.</head>
+            <p>O Bleſſed Lord God! who art glori<g ref="char:EOLhyphen"/>ous in holineſs, fearful in praiſes, working wonders. Thou ſpareſt when we deſerve puniſhment; and in the midſt of judgment remembrest mercy. To thee alone we aſcribe the Glory of our many Deliverances: This Church and Nation have been the viſible care of thy providence and protection. We therefore praiſe thee, O God! We acknowledge thee to be our Saviour and Deliverer! Thou only cau<g ref="char:EOLhyphen"/>ſeſt Wars to ceaſe in the Earth; and in great mercy haſt put a ſtop to the Effuſion of Christian Blood; thou heardest the voice of our humble petitions, and haſt pre<g ref="char:EOLhyphen"/>ſerv'd thy dear Servant from all thoſe Dangers and Deaths he has been expoſed to for our ſakes: Thou broughteſt him back,
+<pb facs="tcp:34628:3"/>O Lord, with the Triumphs and Glories of a Peace-maker. O fill our Hearts with thankfulneſs; and in thy good time give repentance to all thoſe who ſit in dark<g ref="char:EOLhyphen"/>neſs and error. Grant to us all a ſpirit of righteouſneſs, peace, and concord, that we may become one Sheepfold under one Shepherd, the Lord Jeſus Chriſt. O that love, and union, piety, and charity, may abound amongst us, that we may become the joy of the whole Earth. O Lord, give thy Servant, our moſt righful and lawful ſovereign King <hi>William,</hi> a long Life, and happy Reign; and let this be the praiſe and glory thereof, that therein the Righteous did flouriſh, and there was abundance of Peace.—This, and what<g ref="char:EOLhyphen"/>ſoever elſe, thou, O God of thine infinite Goodneſs, <hi>&amp;c.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="5" facs="tcp:34628:3"/>
+            <epigraph>
+               <bibl>
+                  <hi>Coloſſians III. 15.</hi>
+               </bibl>
+               <q>And let the peace of God rule in your hearts, to the which alſo ye are called in one body, and be ye thankful.</q>
+            </epigraph>
+            <p>LOVE and Gratitude can never fail of a Reward; Joy and Peace attend them in this World, Happineſs and Glory in that which is yet to come. They are juſt like the Cherubims, always ſmiling and looking kindly one upon another.</p>
+            <p>A readineſs and willingneſs to do all the good we can, a grateful reſentment of all the favours and benefits we have receive'd from others, (which are Qualities of an endearing nature,) were the only Springs and Engines that mov'd and inclin'd me to undertake the Buſineſs of this Day. Had I the golden Mouth of St. <hi>Chryſoſtom,</hi> the Eloquence of <hi>Cicero,</hi> or the admirable Skill of <hi>Orpheus,</hi> I might then pene<g ref="char:EOLhyphen"/>trate, or mollifie, or charm thoſe Mens Hearts which ſeem now to be as inflexible, I had almoſt ſaid as inſenſible, as the very Rocks and Stones.</p>
+            <pb n="6" facs="tcp:34628:4"/>
+            <p>Could I now draw as lovely and lively a De<g ref="char:EOLhyphen"/>ſcription of all the Advantages of Peace and Union amongſt our ſelves, as the Subject will bear, I might then convince Gainſayers, and bring thoſe who ſeem to be diſcontented at the preſent Diſpenſations of Providence, to confeſs, that all our Dangers, our Troubles, our Miſeries and Sor<g ref="char:EOLhyphen"/>rows did at firſt ſpring and ariſe from the poi<g ref="char:EOLhyphen"/>ſon'd Fountain of our own unhappy Diviſions. I beſeech you therefore, in the Language of the Apoſtle, <hi>let the peace of God rule in your hearts.</hi> What! does the Apoſtle mention Peace! Me<g ref="char:EOLhyphen"/>thinks there's a pleaſing Charm in that ſweet Appellation! Peace is now become the delight<g ref="char:EOLhyphen"/>ful Theme of our daily Diſcourſe, and the daily Object of our Joy and Gratitude.</p>
+            <p>Peace is the faireſt Flower of a Prince's Crown, the choiceſt Bleſſing of a Nation; tis one of the mod excellent Gifts of the Divine Bounty: It brings Relief to the Poor, Bread to the Hungry, Cloaths to the Naked, Buſineſs to the Diligent and Induſtrious; it invigorates the Body Poli<g ref="char:EOLhyphen"/>tick; it ſets all the Wheels and Engines of Trade, of Traffick, and Commerce, into a joyful Move<g ref="char:EOLhyphen"/>ment; and has folded up within her Arms all thoſe Bleſſings which we poor Mortals can wiſh or deſire.</p>
+            <pb n="7" facs="tcp:34628:4"/>
+            <p>God, who governs the World, and diſpoſes and orders all things for the Good of his Crea<g ref="char:EOLhyphen"/>tures, (which ſhould give full Satisfaction to all Mankind,) has for eternal Reaſons, which we ſhall all ſee and underſtand hereafter, given us a Prince, whoſe firſt Arrival gave new Life to our dying Hopes, and at once both rouz'd and rais'd the Courage of a ſinking Nation.</p>
+            <p>His great Underſtanding, his indefatigable Toil and Labour, his undaunted Courage, and admirable Conduct, has, ſince that, not only lower'd, but levelld the growing Pride and Power of a ſubtile, politick Enemy. And now, after all the thundering Storms, the frightful and amazing Tempeſts of War, he has crown'd this, and die neighbouring Kingdoms, with the brighteſt Diadem of this World's Felicity, a Firm and an Honourable Peace. Thus God has made this moſt illuſtrious Prince the Avenger of our Evils, the Repairer of our Breaches, and Reſtorer of our Bleſſings. For which the Children who are yet unborn, will one Day riſe up, and call him Bleſſed.</p>
+            <p>And what ſhall the Fathers ſay, who have heard and ſeen all this! May all the Bleſſings of Heaven and Earth attend King <hi>William</hi> the Third, the
+<pb n="8" facs="tcp:34628:5"/>beſt and greateſt Monarch of the World: A Prince dear to Heaven, the Darling of Provi<g ref="char:EOLhyphen"/>dence, born for the Good of Mankind, wor<g ref="char:EOLhyphen"/>thy in all Ages to bear the mod exalted Tri<g ref="char:EOLhyphen"/>umphs of War, and the brighteſt Felicities of an eternal Peace. Great Favours are great Obligations, and ſo conſequently ſhould bind and engage us, for the time to come, to be more Obedient to God, more Loyal to our King, and more Charitable to our Neighbours; more reſolute in ceaſing to do Evil, in learning to do well: This certainly is the beſt and only way of returning Thanks this Day to Almighty God.</p>
+            <p>God's preſent Mercies, and our own late Mi<g ref="char:EOLhyphen"/>ſeries, are ſuch preſſing and invincible Argu<g ref="char:EOLhyphen"/>ments, to perſuade us to be Peaceable and Thank<g ref="char:EOLhyphen"/>ful, as none can be greater; ſuch a Power they have of exciting and moving us to take heed, that we fall not out amongſt our ſelves, that we never forget nor over-look theſe ſignal Inſtan<g ref="char:EOLhyphen"/>ces of the Divine Goodneſs, in delivering this Church and Nation from Popery and Slavery, as muſt needs render us infatuated, ſhould we not labour to promote Peace and Union a<g ref="char:EOLhyphen"/>mongſt our ſelves.</p>
+            <pb n="9" facs="tcp:34628:5"/>
+            <p>Let <hi>the peace of God rule in your, hearts; rule in your Hearts,</hi> and make them unanimous; in your Tongues, and make them thankful; in your Hands, and make them charitable: Rule us all into one Mind, one Heart, and one Faith, that we may all with one Mouth glorifie and praiſe the God of our Salvation. This Peace of God we ought every way we can to be rul'd by it, and be thankful for it; neither is our Vertue nor our Felicity compleat without it.</p>
+            <p>He is the beſt Chriſtian that is moſt for Peace with his fellow Chriſtian. This <hi>Peace of God</hi> muſt over-rule our Paſſions, advance and crown our Vertues, heal and decide our Controverſies. Haſt thou Faith? Have it to thy ſelf; trouble neither thy weak, nor thy ſtrong Brother about it; do not cenſure or con<g ref="char:EOLhyphen"/>demn thy Brother, becauſe he is not juſt of the ſame mould and opinion with thy ſelf; but ſit down, and be content, that thy Life, thy Li<g ref="char:EOLhyphen"/>berty, the Law, and thy Religion, are all en<g ref="char:EOLhyphen"/>tirely preſerved. Let not nice Diſtinctions and Opinions hatch and foment any Quarrels amongſt us Chriſtians; but <hi>let the peace of God rule in your hearts, to the which alſo ye are called, in one body, and be ye thankful.</hi>
+            </p>
+            <pb n="10" facs="tcp:34628:6"/>
+            <p>In ſpeaking to theſe Words, I ſhall apply my ſelf to the Duty of this Day, and will enquire,</p>
+            <p>
+               <hi>Firſt,</hi> What is meant by this Expreſſion, <hi>Let the peace of God rule in your hearts.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> What it is to <hi>be thankful.</hi>
+            </p>
+            <p>
+               <hi>Peace</hi> is a Word of a very large Extent; all God's Bleſſings are folded up in that ſweet Name: It ſignifies all the temporal, all the ſpi<g ref="char:EOLhyphen"/>ritual, and all the eternal Good we can either expect or deſire.</p>
+            <p>Now that <hi>Peace</hi> which the Apoſtle here re<g ref="char:EOLhyphen"/>commends, is ſuch an one as is joined with Righteouſneſs, with Truth, with Love, and Charity. If this <hi>Peace rule in our Hearts,</hi> it will decide all our Differences, compoſe all our Quarrels, and heal all our Wounds; it will work us all into order, and make us chear<g ref="char:EOLhyphen"/>ful under all its Commands, both to God and Man. Thus <hi>let the Peace of God rule in your Hearts.</hi>
+            </p>
+            <p>Were it once but truly and ſincerely fixed there, it would rule our Words into a milder key, and our Actions into a ſmoother dreſs.
+<pb n="11" facs="tcp:34628:6"/>We ſhould hear no Whiſpers againſt the pre<g ref="char:EOLhyphen"/>ſent auſpicious. Government of great <hi>Caeſar;</hi> no feigned Jealouſies of a Commonwealth co<g ref="char:EOLhyphen"/>ming in; no talk of an abſolute unbounded Monarchy; no canting of ſad Times, when we muſt have ſeen and felt much worſe, had not God himſelf interpos'd, reſcu'd, and deli<g ref="char:EOLhyphen"/>ver'd us. It were much to be wiſh'd, that our Magiſtrates would take effectual Care, to ſuppreſs and hinder the printing of Libels, and all ſuch Books, and Pamphlets, as tend to no other end, but to amuſe the People, to diſ<g ref="char:EOLhyphen"/>ſwade them from admiring and adoring the beſt of Princes, to rail at the preſent Government, and keep them in perpetual Diſcontents, and hinder them from Reunion with the Church. Theſe cannot be the Words of ſuch as ſeek the Peace of <hi>Sion,</hi> or <hi>pray for the Peace of Jeruſa<g ref="char:EOLhyphen"/>lem,</hi> or wiſh well to their native Country.</p>
+            <p>But if we ſtand upon Punctilio's, and will not pray but in our own Words; will not worſhip God, unleſs we may do it in what form we liſt our ſelves; will quit the Church, rather than our Humour, we cannot be ſaid to further, but diſturb the Peace both of Church and State.</p>
+            <pb n="12" facs="tcp:34628:7"/>
+            <p>The Apoſtle beſeeches us, <hi>Col.</hi> 3.12, 13. to be tender and compaſſionate, meek and humble, patient and long-ſuffering, forbearing and forgiving one another: <hi>If any man have a quarrel againſt any, even as Chriſt forgave you, ſo alſo do ye.</hi> O moſt admirable and divine Ex<g ref="char:EOLhyphen"/>hortation!</p>
+            <p>As if he had ſaid, I aſſure you, my beloved <hi>Coloſſians,</hi> that theſe Vertues and Graces are the beſt Symptoms, and the beſt Expreſſions, of the <hi>Peace of God ruling in your Hearts.</hi>
+            </p>
+            <p>The Looks of <hi>Peace</hi> are mild and chearful, her Words ſmooth and gentle, her Hands ſoft and merciful, always ſtretch'd out to receive and embrace thoſe who are ready to come in. Now as we are to live peaceably one with ano<g ref="char:EOLhyphen"/>ther, ſo we are to be thankful for all thoſe Bleſſings God hath beſtowed upon this Church and People.</p>
+            <p>'Tis a Duty that now lies upon us; for <hi>it well becometh the Juſt to be thankful,</hi> Pſal. 33.1. I cannot direct you to any thing more beco<g ref="char:EOLhyphen"/>ming us, in regard of the Mercies mentioned in the Text: <hi>The Peace of God,</hi> and the calling us to it <hi>in one body.</hi> Each of them ſo ample Subjects for our Gratitude, that we cannot
+<pb n="13" facs="tcp:34628:7"/>ſhew thankfulneſs enough for either. Peace Abroad and at Home too! This is ſo great a Bleſſing, that no one thing is more pleaſant to be ſeen, more beautiful to be deſired, or more profitable to be enjoyed.</p>
+            <p>But what ſhall we ſay to thoſe Remarkable Inſtances of God's Mercy and Goodneſs to us, in preſerving this Church and Nation from the black Deſigns, and barbarous Conſpiracies of bloody-minded Men.</p>
+            <p>On <hi>November</hi> the 5th. 92 Years ago, when the fatal Tragedy of the Gun-powder Treaſon was to be acted by the Papiſts; all the black Scenes of Ruine, of Miſery, and Death, be<g ref="char:EOLhyphen"/>ing all fitted and prepared; that then, when the Funeral of King and Parliament, of Church and State, was to be conſummated in a fiery Cloud; that then, when the fatal Minutes were haſtening on to an amazing, dreadful Pe<g ref="char:EOLhyphen"/>riod: That God ſhould at that moment of Time, when there was none could ſave or help us; that he ſhould come down to reſcue and deliver us! That he ſhould infatuate and diſco<g ref="char:EOLhyphen"/>ver thoſe deſperate Wretches, and bring them all to Shame, and condign Puniſhment! is a plain Inſtance of his Povidence, (which has hi<g ref="char:EOLhyphen"/>therto
+<pb n="14" facs="tcp:34628:8"/>watch'd over us for Good) as well as a peculiar Token of his Love and Mercy. On the ſelfe-ſame Day, <hi>November</hi> the 5th. above 9 Years ago, when we look'd upon our ſelves as a miſerable, enſlaved Nation; our Liberties, our Laws, our Religion, being all perverted and invaded; that then, when we were beſet with Legions of armed Papiſts, pick'd out of this and the neighbouring Kingdoms, ready to re<g ref="char:EOLhyphen"/>ceive and execute the bloody Dilates of Prieſts and Jeſuites; that then, when our Church and Religion were brought to the loweſt ebb; lay languiſhing and ſighing under the Oppreſſion and Tyranny of her cruel Enemies, who taun<g ref="char:EOLhyphen"/>tingly upbraided her with her Old Age: That God ſhould then raiſe up her Head out of the Duſt! That he ſhould bring all the Plots and Contrivances of her Enemies to nought! That he ſhould ſave <hi>Iſrael</hi> by the hand of his Servant <hi>Moſes!</hi> That he ſhould ſend the moſt Heroick and Renowned Prince of <hi>Orange</hi> to ſave and reſcue us from a moſt cruel Tyranny, and bloody Perſecution, is a Mercy thankfully to be commemorated by all ſuch as love their Re<g ref="char:EOLhyphen"/>ligion, their King, and Country.</p>
+            <pb n="15" facs="tcp:34628:8"/>
+            <p>God has called who were almoſt out of Call; ſome in remote Corners of this King<g ref="char:EOLhyphen"/>dom, ſome in foreign Countries abroad, ſome <hi>incognito</hi> in dark Corners at home, ſome in Dun<g ref="char:EOLhyphen"/>geons and Priſons, ſome in the Tower! We are all like dead Men reſtored to a new Life! God has called us again into his Church; he has reſtored ſome to their Eſtates, ſome to their Wives and Children, from whom they were forc'd to fly; not that they had done Evil, or deſerved Death, but becauſe they hated Idola<g ref="char:EOLhyphen"/>try, and were ready and able to diſcover the Actors and Inventers of all our Miſeries and Troubles.</p>
+            <p>God has called us all to the Enjoyment of our Liberties, our Laws, and our Religion, he maketh our Wars to ceaſe, and hath ſettled us upon the ſure Foundations of an Honoura<g ref="char:EOLhyphen"/>ble Peace. This is ſo tranſcendant a Mercy, that we can never be ſufficiently thankful.</p>
+            <p>For Men to be grateful and thankful, is,</p>
+            <p>
+               <hi>Firſt,</hi> Humbly and heartily to acknowledge God's infinite Goodneſs and Mercy to us, and our own infinite Unworthineſs of it. He that thinks light of thoſe Works and Wonders God has wrought for us; he that knows not how to
+<pb n="16" facs="tcp:34628:9"/>prize that Peace and Proſperity we now enjoy, or thinks he did any thing to merit or deſerve it, either underſtands not God's Goodneſs, or is not thankful for it.</p>
+            <p>
+               <hi>Secondly,</hi> To be truly thankful, is openly and publickly to confeſs God's Mercies; to re<g ref="char:EOLhyphen"/>flect a while upon the Providence of God.</p>
+            <p n="1">1. In delivering of this Kingdom from Po<g ref="char:EOLhyphen"/>pery and Slavery.</p>
+            <p n="3">2. In preſerving His Majeſty's moſt Sacred Perſon from the barbarous Conſpiracies of bloo<g ref="char:EOLhyphen"/>dy-minded Traitors; and, from all the Perils, the Dangers, the various kinds of Deaths, he has for our ſakes been expoſed to. And then,</p>
+            <p>Laſtly, With Raptures of Joy to dwell a while in the pleaſant Contemplation of an Ho<g ref="char:EOLhyphen"/>nourable Peace.</p>
+            <p>Much might be ſaid of his Wiſdom, his Valour, his Conduct, and particularly of his Clemency to his Enemies. Theſe all deſerve Hymns and Praiſes; we ought to be telling them from Day to Day.</p>
+            <p>Again, To be thankful indeed, is to ſhew it by our Lives and Actions, to preſent our ſelves, and all that is ours, to the Service and Worſhip of God; to offer up our Souls and Bodies, and
+<pb n="17" facs="tcp:34628:9"/>what elſe is ours, as Peace-offerings, and Sa<g ref="char:EOLhyphen"/>crifices of Thankſgiving; never to fear we can do too much, never to hope we can do enough, for what God has done for us; in thus rein<g ref="char:EOLhyphen"/>ſtating us in our Religion, and in all other our Rights and Privileges.</p>
+            <p>He hath finiſh'd our Wars, and reſtored our moſt Rightful and Lawful King, with the Triumphs and Hoſanna's of a Peace-maker. Bleſſed be he that thus cometh to us in the Name of the Lord; be we thankful unto him, and let us ſpeak good of his Name for ever and ever.</p>
+            <p>Thus much for thoſe Words, <hi>Let the Peace of God rule in your Hearts;</hi> it follows, <hi>to the which ye are called in one body, and be ye thankful:</hi> We <hi>are called in one body,</hi> How? By Signs and Wonders; by a miraculous Power: Surely there wanted but a Step between Us and Death. All the Devices and Engines of our Enemies were all fitted, and almoſt finiſh'd; ready (as they themſelves boaſted) either for our Conver<g ref="char:EOLhyphen"/>ſion, or Confuſion. Now we who ſhould have ſuffered and dy'd, or have been murder'd for the ſame Cauſe, are thus unexpectedly deli<g ref="char:EOLhyphen"/>vered, and <hi>call'd into one body,</hi> let us ſtudy how
+<pb n="18" facs="tcp:34628:10"/>to keep in one; how to love, relieve, and aſ<g ref="char:EOLhyphen"/>ſiſt each other. Among the Saints and Angels there are no Jarrs, or Diſcords; Peace dwells for ever there: And ſeeing God has, of his in<g ref="char:EOLhyphen"/>finite Mercy and Goodneſs call'd us to it, I hope we will bethink our ſelves, and walk worthy of it.</p>
+            <p>If we once fall into our old Diviſions, our very Hopes of a Recovery of Peace and Union are loſt in a moment.</p>
+            <p>If by falling into ſeveral Parties, we ſet open the Flood-gates to a Deluge of Miſery and Con<g ref="char:EOLhyphen"/>fuſion, it may juſtly be ſaid of us, We did not underſtand the things that made for our Peace, but betray'd and ruin'd one another.</p>
+            <p>The Day-ſtar of our Peace and Proſperity ſhines now from Eaſt to Weſt, from North to South: Like Lightning in a moment of Time, Fame has wing'd great <hi>William</hi>'s Name through<g ref="char:EOLhyphen"/>out the World.</p>
+            <p>Before his long wiſh'd-for Arrival here, a<g ref="char:EOLhyphen"/>bove Nine Years ago, there was nothing but Scenes of Sorrow, of Slavery, and Death be<g ref="char:EOLhyphen"/>fore our Eyes. Now that he is come, has repair'd our Breaches, ſcatter'd our Enemies, fought our Battels, and finiſh'd all with a glo<g ref="char:EOLhyphen"/>rious
+<pb n="19" facs="tcp:34628:10"/>Peace: See! all things begin to ſpring and revive, to bloom and flouriſh afreſh! Na<g ref="char:EOLhyphen"/>ture puts on a pleaſing Smile! Even the dull and melancholy Soul looks gay and chearful! Where ever this mighty Prince comes, how joyfully is he received! how ſplendidly enter<g ref="char:EOLhyphen"/>tained! The Eyes of all the World are now with admiration fix'd on him. See! his Ene<g ref="char:EOLhyphen"/>mies are all ſtruck with Fear and Terror, his Friends all tranſported with Joy and Won<g ref="char:EOLhyphen"/>der.</p>
+            <p>We are all now like Trees planted by the Ri<g ref="char:EOLhyphen"/>vers of Waters, which ſhould bring forth their Fruits in due ſeaſon: And will we, after all this, tear off our ſelves by pieces into more Con<g ref="char:EOLhyphen"/>fuſions? Who hath bewitched us, that we ſhould think of doing this?</p>
+            <p>If, after all this, we reflect a little upon our ſelves, how happlly we were call'd, who a lit<g ref="char:EOLhyphen"/>tle before ſeem'd caſt away; call'd into one Proteſtant Church, deteſting Superſtition and Idolatry; into one happy Government, abhor<g ref="char:EOLhyphen"/>ring all arbitrary Power, Oppreſſion, and Ty<g ref="char:EOLhyphen"/>ranny; called then, when we ſcarce had any Names, but Traitor, Heretick, or Rebel, to be call'd by. We Proteſtants were the inno<g ref="char:EOLhyphen"/>cent
+<pb n="20" facs="tcp:34628:11"/>Sheep, whom the Prieſts and Jeſuites had mark'd out for Slavery or Death.</p>
+            <p>Indeed, to ſay the truth, we had by our Sins deſerv'd to undergoe and ſuffer all that Miſery that was then breaking in upon us. That God ſhould, notwithſtanding this, have Compaſ<g ref="char:EOLhyphen"/>ſion upon us, who ſo little deſerv'd it! Oh! what can we look upon this to be, but the cal<g ref="char:EOLhyphen"/>ling us out of Duſt and Death, to an anticipa<g ref="char:EOLhyphen"/>ted Reſurrection?</p>
+            <p>Here we cannot chooſe but admire at the eternal Mercy and Goodneſs of God, crying out, <hi>Lord! what is man, that thou art mindful of him?</hi> Or what are we, that thou ſhould'ſt thus reſcue and deliver us?</p>
+            <p>And can we ſo far forget our ſelves, as to unwind and unravel all our Happineſs, by be<g ref="char:EOLhyphen"/>ing divided again? Does not the Miſchiefs and Miſeries we have already ſuffer'd, make us ſenſible of all the Arts and Contrivances the Papiſts have uſed, to exaſperate and ſet us one againſt another? Are the Companies of ar<g ref="char:EOLhyphen"/>med Roman Catholicks, of deſperate bloody-minded Iriſh-men, ſo bleſſed a Sight within our Quarters and our Houſes, that we now ſeem to murmur and complain? If we are pleaſed
+<pb n="21" facs="tcp:34628:11"/>with theſe things, why then God indeed has done us an Injury, to ſcatter and infatuate ſo dangerous an Enemy, to ceaſe our Oppreſſions and Perſections, to bring home Peace and Safety to our Doors; and we do as good as tell him thus, whilſt we either run our ſelves in<g ref="char:EOLhyphen"/>to new Diviſions, raiſe them or continue them. Oh how unthankful, miſerably unthankful, muſt we needs be, as well as fooliſh and incon<g ref="char:EOLhyphen"/>ſiderate, if we thus contemn and throw away our Peace and Happineſs!</p>
+            <p>And ſhall we add Ingratitude to the vaſt bulk of our other notorious Vices! O God forbid. And yet this we ſhall do, if we oppoſe that Peace and Happineſs which Heaven it ſelf now tenders and offers to us by the hand of our moſt gracious King. Now what can be more anſwerable to the Peace of God beſtowed upon us with our Enemies abroad, than a firm bond of Peace and Union with our Brethren at home? He that returns not this, returns no<g ref="char:EOLhyphen"/>thing to God for all that he has wrought and done for us.</p>
+            <p>
+               <hi>How can he be at Peace with God whom he has not ſeen, that will not be at Peace with his Brother whom he has ſeen? He that ſaith he loveth God,
+<pb n="22" facs="tcp:34628:12"/>and hateth his Brother, is a Liar; hereby ſhall all men know that ye are the Friends and Followers of Chriſt, if ye love one another.</hi>
+            </p>
+            <p>To draw to a Concluſion: The redeeming us out of Miſery and Slavery, the ſcattering of our Enemies, the preſervation of His Majeſty's Sacred Perſon from all the Conſpiracies, the Dangers, and Deaths he has been expos'd to at home and abroad, the happy End of the War, and the welcome Bleſſings of an Honourable Peace, theſe are all of no worth or value in our Judgments or Opinions, if we be not hence<g ref="char:EOLhyphen"/>forth more Righteous towards God, more Loy<g ref="char:EOLhyphen"/>al towards our King, and more Loving and Charitable one towards another, than ever we yet have been.</p>
+            <p>And now if ye have any reſpect to the Righ<g ref="char:EOLhyphen"/>teous Judge of all the World, if any Conſide<g ref="char:EOLhyphen"/>ration of God's Goodneſs, if any Love to U<g ref="char:EOLhyphen"/>nity, if any kind of Gratitude for the Mercies you have received from Heaven, or would be gracious in the Eyes of a merciful Father; let the Meekneſs of Chriſtians, the Endearments of God's Kindneſs, the Reaſonableneſs of Gra<g ref="char:EOLhyphen"/>titude, and the Hopes of God's Favour, en<g ref="char:EOLhyphen"/>gage us all, to the utmoſt of our Power, to
+<pb n="23" facs="tcp:34628:12"/>promote Peace, and Charity, and Union a<g ref="char:EOLhyphen"/>mongſt our ſelves: And may that God who calls us to it, work it in us, that we may all with one Heart and one Mouth return him Thanks, <hi>for his Mercy endureth for ever;</hi> and let all the People ſing with King <hi>David, Bleſs ye the Lord, praiſe him, for his Mercy endureth for ever.</hi> And let us now beg, that the God of Peace and Holineſs would ſanctifie every one of us in Body, Soul, and Spirit, that we may be kept blameleſs to the Coming of our Lord and Saviour Jeſus Chriſt. <hi>Amen, Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
